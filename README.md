@@ -60,19 +60,3 @@ regarding (Telecomm Event) etc…
 
 Thanks for reading.
 -------------------------------------------
-
-Please use the following commands to install required modules:
-
-npm install
-
-npm install -g @angular/cli@latest
-
-npm install --save-dev @angular-devkit/build-angular
-
-npm install bootstrap font-awesome
-
-npm install angular-fusioncharts
-
-npm install angular-fusioncharts
-
-ng serve => for running the app
